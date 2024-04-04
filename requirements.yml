@@ -1,0 +1,24 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - nodejs
+  - click
+  - docopt
+  - requests
+  - bs4
+  - sqlite
+  - psycopg2
+  - deap
+  - pysimpleguiweb
+  - cherrypy
+  - folium
+  
